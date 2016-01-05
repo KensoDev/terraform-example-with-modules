@@ -1,2 +1,7 @@
 # terraform-example-with-modules
-Example of how to use terraform modules using the two-ties example from terraform repository
+
+This is an example of dividing terraform definitions into modules. Basically
+taking the `two-tier` example from the terraform repository and modulirizing
+it.
+
+
